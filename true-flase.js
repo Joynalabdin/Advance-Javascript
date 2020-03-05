@@ -13,11 +13,13 @@ if(name){
 // if value is any number but no argument then the condition is true.
 // Any string is true, any white space is true.
 // Empty [] array is true.
-// 
-
+// Object {} is true.
+// "flase" this flase is true.
+ 
 // flase value
 // Zero is flase
 // Empty string is flase.
 // Any undifine is flase.
 // null is also flase.
 // NaN is also flase.
+// flase is also flase.
